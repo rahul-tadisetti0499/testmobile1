@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number_of_days_to_look_ahead_for_upcoming_onboarding_and_offboarding_events" label="Number of days to look ahead for upcoming onboarding and offboarding events" language="en" table="sn_hr_workday_configuration_worker_profile_sync">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number_of_days_to_look_ahead_for_upcoming_onboarding_and_offboarding_events</element>
+            <help/>
+            <hint/>
+            <label>Number of days to look ahead for upcoming onboarding and offboarding events</label>
+            <language>en</language>
+            <name>sn_hr_workday_configuration_worker_profile_sync</name>
+            <plural>Number of days to look ahead for upcoming onboarding and offboarding events</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>divyanshu.dutt@snc</sys_created_by>
+            <sys_created_on>2023-04-28 13:27:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number of days to look ahead for upcoming onboarding and offboarding events</sys_name>
+            <sys_package display_value="HR Service Delivery Integration with Workday" source="sn_hr_workday">d4fb8bd8db5b0010205cdf6b5e96190e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Service Delivery Integration with Workday">d4fb8bd8db5b0010205cdf6b5e96190e</sys_scope>
+            <sys_update_name>sys_documentation_sn_hr_workday_configuration_worker_profile_sync_number_of_days_to_look_ahead_for_upcoming_onboarding_and_offboarding_events_en</sys_update_name>
+            <sys_updated_by>divyanshu.dutt@snc</sys_updated_by>
+            <sys_updated_on>2023-04-28 13:27:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
